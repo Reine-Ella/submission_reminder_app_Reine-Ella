@@ -26,7 +26,7 @@ This application helps students track and receive alerts about upcoming assignme
 - \`startup.sh\` → Starts the application
 
 ## Author:
-Created by **${userName}**
+Created by **Ella**
 EOF
 
 echo "Project structure for $main_dir has been created successfully!"
